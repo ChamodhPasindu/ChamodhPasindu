@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Chamodh+Pasindu;Software+Engineer+and+UX/UI+Designer">
+</p>
 
 <!--
 **ChamodhPasindu/ChamodhPasindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
