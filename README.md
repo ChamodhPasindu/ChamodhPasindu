@@ -30,9 +30,21 @@
 <hr>
 
 ###  📊 Profile stats
+
+<table>
+  <tbody>
+  <tr>
+    <td width=1000px height=225px align="center">
+      <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=ChamodhPasindu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Chamodh Pasindu's Github Stats">
+     </td>
+     <td width=1000px height=225px align="center">
+       <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodhPasindu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" /></td>
+  </tr>
+  </tobody>
+</table>
 <a href="https://github.com/ChamodhPasindu">
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=ChamodhPasindu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Chamodh Pasindu's Github Stats">
-   <img height="180em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodhPasindu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" />
+  
+   
 </a>
 
 
