@@ -1,8 +1,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Chamodh+Pasindu;Software+Engineer+and+UX/UI+Designer">
+ <br>
+<img width=200px alt="side_sticker" alt="animation" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </p>
 
-<img align="center" width=200px alt="side_sticker" alt="animation" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### 🤔 About Me
 -  **Working :**  Web Development :computer:
