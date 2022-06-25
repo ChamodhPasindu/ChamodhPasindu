@@ -2,13 +2,17 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2364F74E&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Chamodh+Pasindu;Software+Engineer+and+UX/UI+Designer">
 </p>
 
+<p align="center">
+<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width=300px height=400px />
+</p>
+
 <img align="right" width=300px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
 ### 🤔 About Me
 -  **Working :**  Web Development :computer:
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
--  **Languages and Technologies :** Java | javaFX | MYSQL | Hibernate | HTML | CSS
+-  **Languages and Technologies :** Java | JS | MYSQL | Hibernate | HTML | CSS | Spring
 -  **Hobbies :** movies 🎥 | Music :headphones:
 -  **Ask me about :** Anything!, I'm happy to help :v:
 -  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
@@ -29,7 +33,8 @@
  </a>
 
 <br>
-<hr>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ###  📊 Profile stats
 
