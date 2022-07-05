@@ -6,6 +6,8 @@
 <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width=300px height=400px />
 </p>
 
+<br>
+
 <img align="right" width=300px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
