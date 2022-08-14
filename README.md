@@ -2,10 +2,11 @@
 
 ![image](https://github.com/ChamodhPasindu/MyProfile/blob/master/assets/images/ss1.png)
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%bb6ee5&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Chamodh+Pasindu;Software+Engineer+and+UX/UI+Designer">
-</p>
+<br>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=25&color=bb6ee5&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Chamodh+Pasindu;Software+Engineer+and+UX/UI+Designer">
+</p>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -23,13 +24,13 @@
   **_Let's connect and chat!_**
 
 <a href="https://www.linkedin.com/in/chamodh-pasindu-9b6178217/">
-   <img align="left" alt="Chamodh Pasindu | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+   <img align="left" alt="Chamodh Pasindu | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg"/>
   </a>
   <a href="mailto:chamodhpasindu@gmail.com">
     <img align="left" alt="Chamodh Pasindu | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
   <a href="https://twitter.com/chamodh_pasindu">
-    <img align="left" alt="Chamodh Pasindu | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+    <img align="left" alt="Chamodh Pasindu | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg"/>
  </a>
  
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -96,38 +97,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=bb6ee5&height=80&section=footer"/>
 </p>
-
-
-<!--  -----------------COMMENT-----------------------
-**ChamodhPasindu/ChamodhPasindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-<table>
-  <tbody>
-  <tr>
-    <td width=1000px height=225px align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChamodhPasindu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Chamodh Pasindu's Github Stats">
-     </td>
-     <td width=1000px height=225px align="center">
-       <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodhPasindu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&layout=compact" alt="Chamodh Pasindu's Github Stats" /></td>
-  </tr>
-  </tobody>
-</table>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamodhpasindu&theme=github_dark"/>
-
-<p align="center">
-<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width=350px height=400px />
-</p>
--->
