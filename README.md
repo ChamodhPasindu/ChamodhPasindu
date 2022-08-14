@@ -39,7 +39,7 @@
 
 <br>
 
-- **Programming Laguage**
+- **_Programming Laguage_**
 
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=black&logo=java&logoColor=white)]()
 [![Python Badge](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B8BBE)]()
@@ -47,7 +47,7 @@
 [![Jquery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=Typescript&logoColor=007acc)]()
 
-- **Frontend Development**
+- **_Frontend Development_**
 
 [![Html5 Badge](https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=e34c26)]()
 [![Css3 Badge](https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&labelColor=black&logo=css3&logoColor=264de4)]()
@@ -61,15 +61,15 @@
 [![nodejs Badge](https://img.shields.io/badge/-nodejs-3c873a?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=3c873a)]()
 [![ExpressJs Badge](https://img.shields.io/badge/-ExpressJs-303030?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)]()
 [![Spring Badge](https://img.shields.io/badge/-Spring-5e8d5a?style=for-the-badge&labelColor=black&logo=spring&logoColor=5e8d5a)]()
-[![Springboot Badge](	https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)]()
+[![Springboot Badge](	https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&labelColor=black&logo=spring-boot)]()
 
-- **Database**
+- **_Database_**
 
 [![MySqlo Badge](https://img.shields.io/badge/-mysql-00758f?style=for-the-badge&labelColor=black&logo=mysql&logoColor=00758f)]()
 [![Mongodb Badge](https://img.shields.io/badge/-mongodb-3FA037?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3FA037)]()
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&labelColor=black&logoColor=white)]()
 
-- **Others**
+- **_Others_**
 
 [![Intellij Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&labelColor=black&logo=intellij-idea&logoColor=blue)]()
 [![VS code Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&labelColor=black&logo=visual%20studio%20code&logoColor=white)]()
