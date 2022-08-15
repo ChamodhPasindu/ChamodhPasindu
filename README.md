@@ -62,6 +62,8 @@
 [![ExpressJs Badge](https://img.shields.io/badge/-ExpressJs-303030?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)]()
 [![Spring Badge](https://img.shields.io/badge/-Spring-5e8d5a?style=for-the-badge&labelColor=black&logo=spring&logoColor=5e8d5a)]()
 [![Springboot Badge](	https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&labelColor=black&logo=spring-boot)]()
+[![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&&labelColor=black&logoColor=FF6C37)]()
+
 
 - **_Database_**
 
@@ -71,7 +73,7 @@
 
 - **_Others_**
 
-[![Intellij Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&labelColor=black&logo=intellij-idea&logoColor=blue)]()
+[![Intellij Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&labelColor=black&logo=intellij-idea&logoColor=white)]()
 [![VS code Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&labelColor=black&logo=visual%20studio%20code&logoColor=white)]()
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=E95420)]()
 
@@ -80,12 +82,12 @@
 
 ###  📊 Profile stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=chamodhpasindu&&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">|<img alt="Chamodh Pasindu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodhpasindu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chamodhpasindu&&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=1F222E">|<img alt="Chamodh Pasindu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodhpasindu&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&hide=Jupyter%20Notebook" height="192px"/>
 |---|---|
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=chamodhpasindu&theme=omni&hide_border=true&background=1F222E"/><p>
-<img src="https://activity-graph.herokuapp.com/graph?username=chamodhpasindu&bg_color=1F222E&color=F85D7F&line=FFFFFF&point=F8D866&hide_border=true">
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=chamodhpasindu&theme=dracula&hide_border=true&background=1F222E"/><p>
+<img src="https://activity-graph.herokuapp.com/graph?username=chamodhpasindu&bg_color=1F222E&color=F85D7F&line=FFFFFF&point=639bd3&hide_border=true">
 
 
 
