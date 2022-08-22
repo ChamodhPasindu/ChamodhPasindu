@@ -83,13 +83,13 @@
 ###  📊 Profile stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChamodhPasindu&&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=1F222E">
-<img height="180em" alt="Chamodh Pasindu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodhPasindu&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&hide=Jupyter%20Notebook" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamodhpasindu&&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=1F222E">
+<img height="180em" alt="Chamodh Pasindu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodhpasindu&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&hide=Jupyter%20Notebook" />
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ChamodhPasindu&theme=dracula&hide_border=true&background=1F222E"/><p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=chamodhpasindu&theme=dracula&hide_border=true&background=1F222E"/><p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=ChamodhPasindu&bg_color=1F222E&color=F85D7F&line=FFFFFF&point=639bd3&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=chamodhpasindu&bg_color=1F222E&color=F85D7F&line=FFFFFF&point=639bd3&hide_border=true">
 
 <p align="center">
 <b>𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
