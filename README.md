@@ -1,11 +1,11 @@
 
 
-![image](https://github.com/ChamodhPasindu/MyProfile/blob/master/assets/images/ss1.png)
+[![image](https://drive.google.com/uc?id=16Zm6-KTZyJqx9w0FdPm03XCu9npMLxGH)](https://chamodhpasindu.netlify.app/)
 
 <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=25&color=bb6ee5&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Chamodh+Pasindu;Software+Developer+and+UX/UI+Designer">
+<img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=25&color=7C5EF2&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Chamodh+Pasindu;Software+Developer+and+UX/UI+Designer">
 </p>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -83,13 +83,13 @@
 ###  📊 Profile stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamodhpasindu&&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=1F222E">
-<img height="180em" alt="Chamodh Pasindu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodhpasindu&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&hide=Jupyter%20Notebook" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamodhpasindu&&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=111A28">
+<img height="180em" alt="Chamodh Pasindu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodhpasindu&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=111A28&hide=Jupyter%20Notebook" />
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=chamodhpasindu&theme=dracula&hide_border=true&background=1F222E"/><p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=chamodhpasindu&theme=midnight-purple&hide_border=true&background=111A28"/><p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=chamodhpasindu&bg_color=1F222E&color=F85D7F&line=FFFFFF&point=639bd3&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=chamodhpasindu&bg_color=111A28&color=7C5EF2&line=7C5EF2&point=989eab&hide_border=true">
 
 <p align="center">
 <b>𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
@@ -97,5 +97,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=bb6ee5&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C5EF2&height=80&section=footer"/>
 </p>
