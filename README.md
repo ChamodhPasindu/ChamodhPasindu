@@ -46,6 +46,7 @@
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=Javascript&logoColor=F0DB4F)]()
 [![Jquery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&labelColor=black&logo=jquery&logoColor=white)]()
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=Typescript&logoColor=007acc)]()
+[![.Net Badge](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&labelColor=black&logo=dotnet&logoColor=007acc)]()
 
 - **_Frontend Development_**
 
@@ -77,6 +78,7 @@
 
 [![Intellij Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&labelColor=black&logo=intellij-idea&logoColor=white)]()
 [![VS code Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&labelColor=black&logo=visual%20studio%20code&logoColor=white)]()
+[![Visual Studio Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
 [![Eclipse Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&labelColor=black&logo=eclipse&logoColor=2C2255)]()
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=E95420)]()
 
